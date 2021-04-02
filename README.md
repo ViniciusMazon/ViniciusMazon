@@ -8,7 +8,7 @@ Sou um Full Stack Developer focado em **NodeJs, ReactJS e React Native** que oca
 
 ### 🏆 Minhas metas atuais são:
 
-* Arrumar um job remoto em uma empresa que possua uma cultura organizacional maneira;
+- [x] Arrumar um job remoto em uma empresa que possua uma cultura organizacional maneira
 
 * Concluir a faculdade de Engenharia de Software (Abr/2021);
 
@@ -20,11 +20,13 @@ Sou um Full Stack Developer focado em **NodeJs, ReactJS e React Native** que oca
 
 ### 🔭 Estou aprendendo:
 
-* TypeScript
+- [x] TypeScript
 
-* Redux
+- [ ] Angular
 
-* Framer Motion
+- [ ] Serverless
+
+- [ ] Framer Motion
 
   
 
