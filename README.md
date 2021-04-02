@@ -10,11 +10,11 @@ Sou um Full Stack Developer focado em **NodeJs, ReactJS e React Native** que oca
 
 - [x] Arrumar um job remoto em uma empresa que possua uma cultura organizacional maneira
 
-* Concluir a faculdade de Engenharia de Software (Abr/2021);
+- [ ] Concluir a faculdade de Engenharia de Software (Abr/2021);
 
-* Empoderar o maior número possível de ONGs de animais com meu TCC;
+- [ ] Empoderar o maior número possível de ONGs de animais com meu TCC;
 
-* Conquistar minha fluência em inglês;
+- [ ] Conquistar minha fluência em inglês;
 
   
 
