@@ -7,7 +7,7 @@ Sou um Full Stack Developer com experiência na stack **NodeJS, ReactJS e React 
 
 - [x] Arrumar um job remoto em uma empresa que possua uma cultura organizacional maneira;
 
-- [ ] Concluir a faculdade de Engenharia de Software (Abr/2021);
+- [x] Concluir a faculdade de Engenharia de Software (Abr/2021);
 
 - [ ] Iniciar uma pós-graduação em Banco de Dados (Jul/2021);
 
