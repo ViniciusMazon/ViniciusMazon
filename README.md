@@ -26,9 +26,7 @@ Sou um Full Stack Developer com experiência na stack **NodeJS, ReactJS e React 
 
 - [ ] NextJS
 
-- [ ] Serverless
-
-- [ ] Framer Motion
+- [ ] AWS
 
 
 ### 😄 Quer trocar uma ideia?
