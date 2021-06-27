@@ -1,6 +1,6 @@
 ## Hello world 🌎
 
-Sou um Full Stack Developer com experiência na stack **NodeJS, ReactJS e React Native**, estudante do curso de Bacharelado em Engenharia de Software e apaixonado por empoderar usuários.
+Sou um Full Stack Developer com experiência na stack **NodeJS, ReactJS e React Native**, graduado no curso de Bacharelado em Engenharia de Software e apaixonado por empoderar usuários.
 
 
 ### 🏆 Minhas metas atuais são:
