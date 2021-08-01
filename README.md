@@ -2,11 +2,9 @@
 
 Sou um Full Stack Developer com experiência na stack **NodeJS, ReactJS e React Native**, graduado no curso de Bacharelado em Engenharia de Software e apaixonado por empoderar usuários.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=viniciusmazon&layout=compact&theme=dark)](https://github.com/viniciusmazon/github-readme-stats)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=viniciusmazon&show_icons=true&theme=dark)
-
-
-
+<br />
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=viniciusmazon&layout=compact&theme=dark)](https://github.com/viniciusmazon/github-readme-stats)
 
 ### 🏆 Minhas metas atuais são:
 
