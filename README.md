@@ -3,14 +3,26 @@
   Sou um Full Stack Developer com experiência na stack **NodeJS, ReactJS e React Native**, graduado no curso de Bacharelado em Engenharia de Software e apaixonado   por empoderar usuários.
 </div>
 
+<br />
+ 
 <div>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=viniciusmazon&show_icons=true&theme=dark" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viniciusmazon&layout=compact&theme=dark" />
 </div>
 
+<br/>
+
 <div>
-  <img align="center" alt="Vinicius-JS" height="30" width="40" src="" />
+  <img align="center" alt="Vinicius-JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" />
+  <img align="center" alt="Vinicius-TS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg" />
+  <img align="center" alt="Vinicius-REACT" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" />
+  <img align="center" alt="Vinicius-REACTNATIVE" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" />
+  <img align="center" alt="Vinicius-REACTNATIVE" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain.svg" />
+  <img align="center" alt="Vinicius-REACTNATIVE" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-plain.svg" />
+    <img align="center" alt="Vinicius-REACTNATIVE" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-plain.svg" />
 </div>
+
+<br/>
 
 ### 🏆 Minhas metas atuais são:
 
