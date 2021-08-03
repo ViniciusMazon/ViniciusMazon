@@ -1,10 +1,16 @@
-## Hello world 🌎
+### Hey!
+<div>
+  Sou um Full Stack Developer com experiência na stack **NodeJS, ReactJS e React Native**, graduado no curso de Bacharelado em Engenharia de Software e apaixonado   por empoderar usuários.
+</div>
 
-Sou um Full Stack Developer com experiência na stack **NodeJS, ReactJS e React Native**, graduado no curso de Bacharelado em Engenharia de Software e apaixonado por empoderar usuários.
+<div>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=viniciusmazon&show_icons=true&theme=dark" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viniciusmazon&layout=compact&theme=dark" />
+</div>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=viniciusmazon&show_icons=true&theme=dark)
-<br />
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=viniciusmazon&layout=compact&theme=dark)](https://github.com/viniciusmazon/github-readme-stats)
+<div>
+  <img align="center" alt="Vinicius-JS" height="30" width="40" src="" />
+</div>
 
 ### 🏆 Minhas metas atuais são:
 
