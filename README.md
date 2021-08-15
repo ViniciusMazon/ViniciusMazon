@@ -1,10 +1,17 @@
 ### Hey!
 <div>
-  Sou um Full Stack Developer com experiência na stack **NodeJS, ReactJS e React Native**, graduado no curso de Bacharelado em Engenharia de Software e apaixonado   por empoderar usuários.
+  Sou um Full Stack Developer com experiência na stack NodeJS, ReactJS e React Native, graduado no curso de Bacharelado em Engenharia de Software e apaixonado   por empoderar usuários.
 </div>
 
 <br />
- 
+ <div align="center">
+  <img
+    height="180em"
+    src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=viniciusmazon"
+  />
+</div>
+
+<br />
 <div>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=viniciusmazon&show_icons=true&theme=dark" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viniciusmazon&layout=compact&theme=dark" />
@@ -44,6 +51,8 @@
 - [x] TypeScript
 
 - [x] Angular
+
+- [ ] Go
 
 - [ ] NextJS
 
